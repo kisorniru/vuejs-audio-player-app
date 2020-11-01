@@ -1,5 +1,5 @@
 # vuejs-audio-player-app
-Music Application using Vue.js
+audio player application using Vue.js
 
 ## Project setup
 ```
